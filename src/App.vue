@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>hello</div>
+    <div>Dota</div>
     <router-view/>
   </div>
 </template>
